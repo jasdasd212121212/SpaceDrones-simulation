@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93952e6289cc1bc4c91cf467f2659388, type: 3}
+  m_Name: DronesSpawnerSettings
+  m_EditorClassIdentifier: 
+  _dronePrefab: {fileID: 7055768589701891220, guid: 52f66fcc290cfa14b93e2b3bb6c65f02, type: 3}
+  _maximalDronesCountPerFraction: 5
+  _spawnRadius: 3
+  _fractions:
+  - {fileID: 11400000, guid: 6257e777a5b935449aa9cfd910bba78d, type: 2}
+  - {fileID: 11400000, guid: 4dc00c258b572ba45895c18ff577b6f1, type: 2}

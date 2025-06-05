@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f7b23f37609f0418d12e76c213f9cb, type: 3}
+  m_Name: MoveToBaseBehaviour
+  m_EditorClassIdentifier: 
+  _connectedBehaviours:
+  - {fileID: 11400000, guid: 10856d29d265c4449aa49333478e8353, type: 2}
+  _predicates:
+  - {fileID: 11400000, guid: 3fd65bc7d0c6da5498b2adda06137b5c, type: 2}
+  - {fileID: 11400000, guid: a716dee99de3b21408ed0ec026dde50a, type: 2}
+  _forwardSpeed: 10
+  _backwardSpeed: 0
+  _mark: {fileID: 0}

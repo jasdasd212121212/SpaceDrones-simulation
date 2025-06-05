@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c8c2fbf3ab65e4e8e62b1b20335f85, type: 3}
+  m_Name: ResourcesSpawnerSettings
+  m_EditorClassIdentifier: 
+  _resourcePrefab: {fileID: 3996439607052985935, guid: f4795c9230270cc4e9645df424d2364c, type: 3}
+  _initialSpawnDelay: 1
+  _spawnRange: {x: 25, y: 35}
