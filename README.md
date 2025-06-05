@@ -28,3 +28,8 @@
 1. Zenject
 2. UniTask
 3. UltimateAiPack (своя разработка)
+
+### Скриншоты
+![Скриншот 1](https://github.com/jasdasd212121212/SpaceDrones-simulation/blob/9e17b8af66d48dc0cd765f167860de8b0f0ded84/Previews/1.png)
+![Скриншот 2](https://github.com/jasdasd212121212/SpaceDrones-simulation/blob/9e17b8af66d48dc0cd765f167860de8b0f0ded84/Previews/2.png)
+![Скриншот 3](https://github.com/jasdasd212121212/SpaceDrones-simulation/blob/9e17b8af66d48dc0cd765f167860de8b0f0ded84/Previews/3.png)
